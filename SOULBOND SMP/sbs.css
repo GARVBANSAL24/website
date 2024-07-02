@@ -1,0 +1,13 @@
+.me{
+    font-size: 120%;
+    background-color: black;
+    height:300px;
+    color:white;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-around; 
+     
+    
+    
+   
+}
